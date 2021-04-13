@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/69971751/111589944-db94a580-8808-11eb-8612-3a1eac3f0f42.png" width=100%>
 
-(https://github.com/hiroki-sawada0531/EvernoteLikeApp-PHP.ver)のLaravel版です。※現在作成途中です。
+(https://github.com/hiroki-sawada0531/EvernoteLikeApp-PHP.ver) のLaravel版です。※現在作成途中です。
 
 ## :clap:学習教材と製作者様
 https://www.techpit.jp/courses/132
