@@ -4,10 +4,8 @@
 
 (https://github.com/hiroki-sawada0531/EvernoteLikeApp-PHP.ver) のLaravel版です。
 
-## :clap:学習教材と製作者様
+## :clap:学習教材
 https://www.techpit.jp/courses/132
-(※この教材は有料です。)
-<br>講師:yasuaki様
 
 ## :octocat:開発環境
 
